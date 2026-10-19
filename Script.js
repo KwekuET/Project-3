@@ -1,11 +1,10 @@
-// ----- Settings -----
 let tankWidth = 800;
 let tankHeight = 500;
 let fishWidth = 100;
 let fishHeight = 60;
 let numberOfFish = 8;
 
-let images = [};
+let images = ["fish1.png", "fish2.png", "fish3.png", "fish4.png", "fish5.png"];
 
 let tank = document.getElementById("tank");
 
