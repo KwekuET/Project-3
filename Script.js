@@ -117,5 +117,4 @@ function moveAllFish() {
   }
 }
 
-// Move every fish one step every 20 milliseconds
 setInterval(moveAllFish, 20);
