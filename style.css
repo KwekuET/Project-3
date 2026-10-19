@@ -11,10 +11,10 @@ body {
   margin: 20px auto;
   border: 8px solid;
   overflow: hidden;
-  background: linear-gradient(to bottom, white, yellow, red);
+  background: linear-gradient(to bottom, #3ab5b0, #3d99be, #56317a);
 }
 
-.dragon {
+.fish {
   width: 100px;
   height: 60px;
   cursor: pointer;
