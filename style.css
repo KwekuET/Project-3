@@ -8,7 +8,7 @@ body {
 #tank {
   width: 800px;
   height: 600px;
-  margin: 20px;
+  margin: 20px auto;
   border: 8px solid;
   overflow: hidden;
   background: linear-gradient(to bottom, white, yellow, red);
