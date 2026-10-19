@@ -1,1 +1,22 @@
+body {
+  background-color: #1b1b1f;
+  color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-align: center;
+}
 
+#tank {
+  width: 800px;
+  height: 600px;
+  margin: 20px;
+  border: 8px solid;
+  overflow: hidden;
+  background: linear-gradient(to bottom, white, yellow, red);
+}
+
+.dragon {
+  width: 100px;
+  height: 60px;
+  cursor: pointer;
+  position: absolute;
+}
